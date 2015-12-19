@@ -1,0 +1,12 @@
+# Site settings
+title: Fares's blog
+email: hosest@gmail.com
+description: >
+  welcome to my personal blog,
+  here you will find a mix of technical, social and political articles
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  hossam-fares
+
+# Build settings
+markdown: kramdown
