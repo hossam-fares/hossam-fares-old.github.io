@@ -10,3 +10,5 @@ github_username:  hossam-fares
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-midnight
